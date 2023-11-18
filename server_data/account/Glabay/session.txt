@@ -1,0 +1,8 @@
+USERNAME = Glabay
+X = 9507.0
+Y = 90.9
+Z = 9622.3
+GC = 77094
+SKILL[0] = 0
+SKILL[1] = 0
+SKILL[2] = 0
